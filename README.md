@@ -1,12 +1,5 @@
-Ah, agora entendi! Eu te enviei o código do site para copiar e colar, e você ainda não fez isso. Não se preocupe, vamos corrigir isso agora!
-
-O que você precisa fazer:
-
-1. Crie um arquivo index.html com o código do site que eu te enviei anteriormente. Aqui está o código novamente, para você copiar:
-
-
-
-<!DOCTYPE html><html lang="pt-br">
+<!DOCTYPE html>
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,15 +36,17 @@ O que você precisa fazer:
     <header>
         <h1>Inspiração Diária</h1>
         <p>Motivação para transformar sua vida!</p>
-    </header><main>
-    <h2>Bem-vindo!</h2>
-    <p>Este site é dedicado a você que busca melhorar a sua vida e alcançar seus objetivos. Aqui, você encontrará conteúdos que fortalecem sua fé, autoestima, e motivação para o crescimento pessoal.</p>
+    </header>
     
-    <h3>Desenvolvimento Pessoal</h3>
-    <p>O desenvolvimento pessoal é uma jornada contínua. Acredite em si mesmo e no seu potencial. Cada dia é uma nova oportunidade para crescer!</p>
-    
-    <h3>Espiritualidade</h3>
-    <p>A fé é uma força poderosa. Permita-se confiar em algo maior e buscar paz interior todos os dias.</p>
-</main>
-
-</bod 
+    <main>
+        <h2>Bem-vindo!</h2>
+        <p>Este site é dedicado a você que busca melhorar a sua vida e alcançar seus objetivos. Aqui, você encontrará conteúdos que fortalecem sua fé, autoestima, e motivação para o crescimento pessoal.</p>
+        
+        <h3>Desenvolvimento Pessoal</h3>
+        <p>O desenvolvimento pessoal é uma jornada contínua. Acredite em si mesmo e no seu potencial. Cada dia é uma nova oportunidade para crescer!</p>
+        
+        <h3>Espiritualidade</h3>
+        <p>A fé é uma força poderosa. Permita-se confiar em algo maior e buscar paz interior todos os dias.</p>
+    </main>
+</body>
+</html>
